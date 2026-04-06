@@ -19,3 +19,4 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![Node.js](https://img.shields.io/badge/Node.js-green)
 ![MySQL](https://img.shields.io/badge/MySQL-blue)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-End;Estudante+de+ADS)
