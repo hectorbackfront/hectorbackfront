@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Hector
 
-<!--
-**hectorbackfront/hectorbackfront** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de ADS  
+🚀 Focado em desenvolvimento  
+🛠 Também tenho interesse em manutenção  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hectorbackfront&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hectorbackfront&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 Tecnologias
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Node.js](https://img.shields.io/badge/Node.js-green)
+![MySQL](https://img.shields.io/badge/MySQL-blue)
