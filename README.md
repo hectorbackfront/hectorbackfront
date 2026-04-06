@@ -8,9 +8,9 @@
 
 ## 📊 Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hectorbackfront&show_icons=true&theme=tokyonight)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=hectorbackfront&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hectorbackfront&layout=compact&theme=tokyonight)
+![Principais idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=hectorbackfront&layout=compact&theme=tokyonight)
 
 ---
 
