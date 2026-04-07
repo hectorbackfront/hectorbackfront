@@ -8,10 +8,10 @@
 
 ## 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=hectorbackfront&show_icons=true&theme=tokyonight)
-
-![Principais idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=hectorbackfront&layout=compact&theme=tokyonight)
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hectorbackfront&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hectorbackfront&layout=compact&theme=tokyonight" />
+</p>
 
 ## 🚀 Tecnologias
 
